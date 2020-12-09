@@ -17,9 +17,18 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.bagusaff.googlesignin",
+      "config":{
+        "googleSignIn":{
+          "reservedClientId":"com.googleusercontent.apps.996134933888-kijv8vmeq7rs0o66d246lnpbn2hoochr"
+        }
+      },
+      "googleServicesFile":"./GoogleService-Info.plist"
     },
     "android": {
+      "package": "com.bagusaff.googlesignin",
+      "googleServicesFile":"./google-services.json",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"

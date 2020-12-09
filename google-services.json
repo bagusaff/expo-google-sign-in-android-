@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "996134933888",
+    "firebase_url": "https://react-native--signin-e11c2-default-rtdb.firebaseio.com",
+    "project_id": "react-native--signin-e11c2",
+    "storage_bucket": "react-native--signin-e11c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996134933888:android:7880b6bbbffe16c92c5d65",
+        "android_client_info": {
+          "package_name": "com.bagusaff.googlesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996134933888-vmr6skqct8vlqrvf556c2nddmntrhlor.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bagusaff.googlesignin",
+            "certificate_hash": "bedc7c7efddbbbd28bd04dae6579970b158fde81"
+          }
+        },
+        {
+          "client_id": "996134933888-s84lgt3h1utbidgf3eg5if9tcbkf1i44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJmVGg0QdaKWS_obXD6jUxNYA873Tpv_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996134933888-s84lgt3h1utbidgf3eg5if9tcbkf1i44.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
